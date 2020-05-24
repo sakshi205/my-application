@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Child Nutrition</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <!--    <string name="growth_monitoring_chart">Growth Monitoring Chart</string>-->
+    <!--    <string name="nutrient_sources">Nutrient Sources</string>-->
+    <!--    <string name="guidelines">Guidelines</string>-->
+    <!--    <string name="vaccination_details">Vaccination Details</string>-->
+    <!--    <string name="blog">Blog</string>-->
+</resources>

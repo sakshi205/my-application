@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@drawable/bg"
+    android:gravity="bottom"
+    android:padding="20dp">
+
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/bg2"/>
+
+    <TextView
+        android:fontFamily="@font/baloo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Child Nutrition"
+        android:textSize="24sp"
+        app:fontFamily="@font/baloo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/baloo"
+        android:text="child_nutrition@gmail.com"
+        android:textSize="16sp"
+        app:fontFamily="@font/baloo" />
+
+</LinearLayout>
